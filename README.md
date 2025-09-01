@@ -36,8 +36,7 @@ Collaborated on a hypothesis-driven threat hunting project focused on identifyin
 ---
 
 ## 📬 Contact for Opportunities
-📧 [karthik.022@outlook.com](mailto:karthik.022@outlook.com)  
-📞 +91 82483 05972  
+📧 [karthik.022@outlook.com](mailto:karthik.022@outlook.com)   
 📍 Tamil Nadu, India  
 
 ---
